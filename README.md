@@ -7,9 +7,6 @@ the page.
 Built for heads-up hyper-turbo, which is where its blind-structure and
 push/fold work is aimed, but it plays full tables too.
 
-A fork of `poker-advisor`, which reads PokerNow. The engine is the same; the
-scraper is not, and the per-opponent profiling is gone — see "Honesty about
-what it is" at the bottom.
 
 ## What it does
 
